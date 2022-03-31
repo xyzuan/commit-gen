@@ -3,7 +3,7 @@
 A bot that can make your Github stats green with scheduled auto commit.
 
 ## How to use
-- Clone or fork this repo.
+- Clone this repo.
 - Activate Github Actions.
 - Change the `email` and `name` information on file `.github/workflows/bot.yml`.
 - Change the scheduling time on file `bot.yml`. **Example: You can try to run it in every hour with string `1 * * * *`**.
